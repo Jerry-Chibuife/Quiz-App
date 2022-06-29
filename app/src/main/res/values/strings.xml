@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quiz_app_welcome_header">Quiz App</string>
+    <string name="name_space_label">Enter Your name</string>
+    <string name="welcome_button">Begin Game</string>
+    <string name="name_space_eg">eg: John Simon</string>
+    <string name="welcome_banner_text">Welcome %1$s</string>
+    <string name="progress_bar_text">%1$s / %2$s</string>
+    <string name="score"> %1$s  / %2$s</string>
+    <string name="here_s_your_score">Here\'s your score</string>
+    <string name="play_again">Play again</string>
+</resources>
